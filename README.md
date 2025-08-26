@@ -1,7 +1,6 @@
 # Spotify-YouTube-Data-Pipeline
 Built an ETL pipeline to process YouTube &amp; Spotify streaming data. Extracted raw JSON with Python, transformed it into insights like engagement rate, days since release, and streams in millions, and loaded results into CSV/PostgreSQL for analysis.
 
-# 🎧📺 StreamFusion: ETL Pipeline for YouTube & Spotify
 
 This project implements a **full-stack data engineering workflow** that extracts, transforms, and loads (ETL) streaming data from **YouTube** and **Spotify** to uncover insights into content and artist performance.
 
